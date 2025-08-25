@@ -1,7 +1,9 @@
 # Portfolio Website
 
 This is my first project that I built to learn the basics of HTML, CSS and JS. It was fun learning Bootstrap to make pages responsive!!!
+
 This project is hosted on GitHub pages here: https://krish-naidu.github.io/Portfolio_Website/
+
 I loved the fact that GitHub provides free website hosting for static pages!!!
 
 This is a personal portfolio website built to showcase projects, services, and testimonials. The site is fully responsive and uses modern web technologies including HTML, CSS, JavaScript, and popular libraries like Bootstrap and AOS.
